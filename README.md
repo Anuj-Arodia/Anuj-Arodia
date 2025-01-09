@@ -1,4 +1,5 @@
 👨‍💻 Anuj Arodia | Cybersecurity Enthusiast
+![Coding Bunny](https://github.com/Anuj-Arodia/Anuj-Arodia/Anuj-Arodia/raw/main/22.gif)
 
 
 
