@@ -1,6 +1,5 @@
 👨‍💻 Anuj Arodia | Cybersecurity Enthusiast
 
-![Coding Bunny](https://github.com/Anuj-Arodia/Anuj-Arodia/Anuj-Aroda/raw/main/Untitleddesign.mp)
 
 
 🌟 About Me
