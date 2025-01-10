@@ -1,4 +1,5 @@
 👨‍💻 Anuj Arodia | Cybersecurity Enthusiast
+![Coding Animation](./assets/lap.gif)
 
 🌟 About Me
 Hi there! I'm Anuj Arodia, a passionate cybersecurity enthusiast with a strong foundation in networking, Python programming, and hands-on expertise in network security. I'm constantly learning, growing, and exploring the fascinating world of cybersecurity to stay ahead of evolving threats.
